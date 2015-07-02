@@ -1,3 +1,3 @@
 # DataScience
-*DataScience and Tools 
-*hlp
+* DataScience and Tools 
+* hlp
